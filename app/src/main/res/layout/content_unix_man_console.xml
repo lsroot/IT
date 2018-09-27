@@ -1,0 +1,4448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".UnixManConsole"
+    tools:showIn="@layout/activity_unix_man_console">
+
+   <TableLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:shrinkColumns="1">
+<!-- F -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="F"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_cmd_F3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_cmd_F9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_F12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+       <!-- a -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="a"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_a15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- b -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="b"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_b7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+          <TextView
+              android:textSize="18dp"
+              android:textColor="@color/black"
+              android:textStyle="bold"
+              android:paddingLeft="10dp"
+              android:text="@string/unix_cmd_b8"/>
+          <TextView
+              android:textSize="12dp"
+              android:text=""/>
+
+       <!-- c -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="c"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_c25"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- d -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="d"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d25"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d26"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d27"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d28"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d29"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d30"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d31"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d32"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d33"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_d34"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- e -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="e"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e25"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e26"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e27"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_cmd_e28"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_e29"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- f -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="f"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_f10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- g -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="g"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_cmd_g10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_g24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- h -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="h"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_h"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_h1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_h2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_h3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- i -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="i"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_i14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- j -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="j"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_j"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_j1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_j2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- k -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="k"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_k"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_k1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_k2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- l -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="l"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_cmd_l1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_cmd_l2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_l24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- m -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="m"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_m17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- n -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="n"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_n11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- o -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="0"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_o"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_o1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- p -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="p"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p25"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p26"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p27"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p28"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_p29"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- q -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="q"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_q14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+          <!-- r -->
+          <TextView
+              android:textSize="28dp"
+              android:textColor="@color/black"
+              android:textStyle="bold"
+              android:paddingLeft="10dp"
+              android:textAlignment="center"
+              android:text="r"/>
+          <TextView
+              android:textSize="12dp"
+              android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_r19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- s -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="s"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_cmd_s9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s25"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s26"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s27"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s28"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s29"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s30"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s31"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s32"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_s33"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+          <TextView
+              android:textSize="18dp"
+              android:textColor="@color/black"
+              android:textStyle="bold"
+              android:paddingLeft="10dp"
+              android:text="@string/unix_cmd_s34"/>
+          <TextView
+              android:textSize="12dp"
+              android:text=""/>
+
+       <!-- t -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="t"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_t14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- u -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="u"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_u14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- v -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="v"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_v"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_v1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_v2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_v3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_v4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_v5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- w -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="w"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="w"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_w8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- x -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="x"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_x9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- y -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="y"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_y"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_y1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- z -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="z"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_z"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_z1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_z2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_z3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_z4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_z5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_cmd_z6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+   </TableLayout>
+</android.support.v4.widget.NestedScrollView>

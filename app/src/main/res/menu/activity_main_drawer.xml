@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/unix_console"
+            android:icon="@drawable/ic_unix_console"
+            android:title="Unix консоль" />
+        <item
+            android:id="@+id/win_console"
+            android:icon="@drawable/ic_console"
+            android:title="Win консоль" />
+        <item
+            android:id="@+id/ubuntu_cmd"
+            android:icon="@drawable/ic_ubuntu"
+            android:title="Ubuntu команды" />
+        <item
+            android:id="@+id/win_server"
+            android:icon="@drawable/ic_windows"
+            android:title="Win сервер" />
+        <item
+            android:id="@+id/tcp_ip"
+            android:icon="@drawable/ic_tcp"
+            android:title="TCP/IP" />
+        <item
+            android:id="@+id/rj_udp"
+            android:icon="@drawable/ic_rj"
+            android:title="RJ-45/UDP-5E" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

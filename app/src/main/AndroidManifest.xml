@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lsroot.it">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UnixConsole"
+            android:label="@string/title_activity_unix_console"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WinConsole"
+            android:label="@string/title_activity_win_console"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UbuntuCMD"
+            android:label="@string/title_activity_ubuntu_cmd"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WinServer"
+            android:label="@string/title_activity_win_server"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TCP_IP"
+            android:label="@string/title_activity_tcp__ip"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RJ_UDP"
+            android:label="@string/title_activity_rj__udp"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UnixManConsole"
+            android:label="@string/title_activity_unix_man_console"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UnixManConsolePath2"
+            android:label="@string/title_activity_unix_man_console_path2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

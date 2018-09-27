@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".UnixManConsolePath2"
+    tools:showIn="@layout/activity_unix_man_console_path2">
+
+   <TableLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <!-- _ -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="_"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- a -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="a"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_a7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- b -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="b"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_b"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_b1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_b2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_b3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- c -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="c"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_c10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- d -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="d"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_d"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_d1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- e -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="e"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_e"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_e1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_e2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_e3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_e4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- f -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="f"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_f16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- g -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="g"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g22"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g23"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g24"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g25"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g26"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g27"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g28"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g29"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g30"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_g31"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- i -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="i"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_i20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- k -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="k"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_k"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_k1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- l -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="l"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_sys_call_l8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_l12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- m -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="m"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_sys_call_m5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_m21"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- n -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="n"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_n"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_n1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_n2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- o -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="o"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_o15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- p -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="p"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+       android:textSize="18dp"
+       android:textColor="@color/black"
+       android:textStyle="bold"
+       android:paddingLeft="10dp"
+       android:text="@string/unix_sys_call_p4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_p12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- q -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="q"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_q"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_q1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- r -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="r"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_r11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <!-- s -->
+       <TextView
+           android:textSize="28dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:textAlignment="center"
+           android:text="s"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s1"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s2"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s3"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s4"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s5"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s6"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s7"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s8"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s9"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s10"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s11"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s12"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s13"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s14"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s15"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s16"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s17"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s18"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s19"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+
+       <TextView
+           android:textSize="18dp"
+           android:textColor="@color/black"
+           android:textStyle="bold"
+           android:paddingLeft="10dp"
+           android:text="@string/unix_sys_call_s20"/>
+       <TextView
+           android:textSize="12dp"
+           android:text=""/>
+   </TableLayout>
+</android.support.v4.widget.NestedScrollView>
